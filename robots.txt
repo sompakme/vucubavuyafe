@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vucubavuyafe.pages.dev/sitemap.xml
